@@ -3,4 +3,5 @@
 [MONGO]
 user=<usuario>
 password=<contraseña>
+cluster=<@clustername...>
 ```
